@@ -61,6 +61,7 @@ section{
 
 .card {
     border: none;
+    background-color: none;
 }
 .mover{
     align-self: center;
@@ -68,11 +69,9 @@ section{
 .bg-rosado{
     color: #ffefe8;
     background-color: #ffefe8;
+    border-radius: 5px;
 }
 
-NICOLAS PRIETO PINZON
-13:32 (hace 1 minuto)
-para mí
 
 .section-service .card{
     background-color: transparent;
@@ -82,11 +81,7 @@ para mí
 .section-service .card-title{
     color: #ff702a;
 }
-.card{
-    margin: auto;
-    margin-top: 5%;
-    padding: 25px;
-}
+
 .pre-footer{
     background-color: antiquewhite;
     width: 100%;
@@ -137,5 +132,19 @@ hr{
     margin:auto;
     margin-bottom: 10px;
 }
+.clase1D{
+    background-color: #fAEBd7;
+    color: #000;
+}
+.letra-cards{
+    font-size: 20px;
+    color: #ff702a;
+}
+.grande{
+    font-size: 50px;
 
+}
+.icons{
+    font-size: 30px;
+}
 
