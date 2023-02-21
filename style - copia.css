@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1d2b;
+
+}
+body{
+    background-color: #1e1d2b;
+}
+.orange{
+    color: #ff702a;
+}
+
+.navbar-brand{
+    
+    margin-top: 20px;
+    margin-left: 40px; 
+color: #ff702a !important;
+font-size: 50px;
+}
+
+.btn
+{
+ background-color: #ff702a ;
+}
+
+.navbar-toggler
+{
+    margin-bottom: 10px;
+}
+
+ul
+{
+
+display: inline-block;
+margin-left: auto;
+margin-right: 10%;
+}
+
+li
+{  
+    display: flex;
+    justify-content: center;
+}
+
+
+.card-title {
+    font-size: 70px;
+    color: #ff702a;
+}
+.card-img-top {
+    float: right;
+    width: 20em;
+    height: 20em;
+    margin-right: 20%;
+    align-items: center;
+    position: relative;
+}
+
+section{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+/* .card-body1{
+    float: right;
+    margin-right: 20%;
+}
+.card-img-top1{
+    float: left;
+    width: 20em;
+    height: 20em;
+    margin-left: 5%;
+    align-items: center;
+    position: relative;
+}
+.card-title1{
+    font-size: 40px;
+    color: white;
+}
+.section-1{
+    margin-top: 20%;
+}
+.about{
+    color: #ff702a;
+}
+.cards-foods{
+    margin-top: 40%;
+    margin-right: 10%;
+    color: black;
+    
+  
+}
+.pc{
+    color: #ff702a;
+    text-align: center;
+}
+
+.img-menu{
+    
+    width: 12em;
+    height: 12em;
+    margin-top: 10%;
+    margin-left: 0%; */
+
+    /* background-color: #ffefe8; */
+/* }
+.bg-rosado {
+    background-color: #ffefe8;
+}
+.card-title2{
+    font-size: 2em;
+}
+
+.hola{
+    font-size: 40px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.mm{
+    margin-left: 25%;
+} */
